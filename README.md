@@ -1,5 +1,9 @@
 # Audio DeepFake Detection using CNN-BiLSTM
 
+## APP Demo
+
+https://github.com/user-attachments/assets/2e036a20-97fc-4b13-accb-63e7430f7e57
+
 ## Overview
 This project aims to detect audio deepfakes using a hybrid approach that combines Convolutional Neural Networks (CNN) and Bidirectional Long Short-Term Memory Networks (BiLSTM). The system is designed to effectively classify audio data into genuine or fake categories, offering a robust solution to the growing challenges posed by audio-based misinformation.
 
